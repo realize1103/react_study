@@ -17,23 +17,8 @@ To use this application,
 3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
-- crate project   
-  - npx create-react-app react-movie_app  
-- strart service
-  - npm start
-
-How to use git  
-git init   
-git remote add origin https://github.com/realize1103/react-study  
-git add .  
-git commit -m "initial commit"    
-it push origin master    
-
-
-npm i prop-types  
-npm i axios  
-npm i gh-pages   
-npm install react-router-dom  
+5. Type " npm install react-quill" inside the client directory ( Download Front-end Dependencies )
+6. Type  " npm install multer" inside the root directory  ( Download Server Dependencies ) 
 
 ###Contact Information  
 
